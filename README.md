@@ -17,7 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TentacleSama4254)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=TentacleSama4254)](https://github.com/AlenSaito1/next-github/)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254)](https://git.io/streak-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
