@@ -6,16 +6,8 @@
 
 [<img align="center" alt="Deth | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Hi_Im_Pomu]
 
-
-<br />
-
-
 ---
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TentacleSama4254&show_icons=true&hide_border=true" />
- 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=highcontrast&layout=compact)](https://www.youtube.com/watch?v=rsP2Yq4H98A)
 
 [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=TentacleSama4254)](https://github.com/TentacleSama4254)
 
