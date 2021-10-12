@@ -19,8 +19,7 @@
 
 [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=TentacleSama4254)](https://github.com/AlenSaito1/next-github/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
