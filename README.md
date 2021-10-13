@@ -1,4 +1,12 @@
-# Hi there, I'm 🐙 Tentacle_Sama_:3 🐙
+# Hi I'm Pomu 
+---
+<video  align = "center" width="320" height="240" autoplay>
+  <source src="./assets/Lazulight.mp4" type="video/mp4">
+  <source src="./assets/Lazulight.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+## 🐙 Tentacle_Sama_:3 🐙
 ---
 - I’m currently learning Typescript ..I think
 - Currently writing useless Code
