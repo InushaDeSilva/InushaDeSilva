@@ -1,20 +1,12 @@
 # Hi I'm Pomu 
 ---
-<p align = "center">
-<video width="1280" height="720" autoplay>
-  <source src="./assets/Lazulight.mp4" type="video/mp4">
-  <source src="./assets/Lazulight.mp4" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
-</p>
+[<img align="center" alt="Nijisanji EN" width="450px" src="assets/Lazulight.webp" />](https://www.youtube.com/watch?v=ZnP0cKNPE04)
 
 ## 🐙 Tentacle_Sama_:3 🐙
 ---
-- I’m currently learning Typescript ..I think [<img align="right" alt="Deth | Twitter" width="66px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
+- I’m currently learning Typescript ..I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Currently writing useless Code
 - Addicted to VTubers
-
-
 
 ---
                       
