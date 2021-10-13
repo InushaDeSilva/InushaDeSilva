@@ -10,7 +10,7 @@
 </div>
 
 
---
+---
 - I’m currently learning Typescript ..I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Currently writing useless Code
 - Addicted to VTubers
