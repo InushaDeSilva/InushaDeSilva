@@ -2,7 +2,7 @@
 ---
 <div align="center">
 
-[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://www.youtube.com/watch?v=ZnP0cKNPE04)
+[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/ZnP0cKNPE04?t=145)
 
 ## 🐙 Tentacle_Sama_:3 🐙
 
@@ -10,7 +10,7 @@
 </div>
 
 
----
+--
 - I’m currently learning Typescript ..I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Currently writing useless Code
 - Addicted to VTubers
@@ -20,7 +20,9 @@
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="480">
 </p>
-
+<p align = "left">
+  <img src = "assets/aqua.gif">
+</p>
 <p align = "right">
   <img src = "https://github-readme-stats.vercel.app/api?username=TentacleSama4254&show_icons=true&theme=radical&layout=compact">
 </p>
