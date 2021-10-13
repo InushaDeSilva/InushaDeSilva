@@ -1,6 +1,10 @@
 # Hi I'm Pomu 
 ---
-[<img align="center" alt="Nijisanji EN" width="450px" src="assets/Lazulight.webp" />](https://www.youtube.com/watch?v=ZnP0cKNPE04)
+<div align="center">
+
+[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://www.youtube.com/watch?v=ZnP0cKNPE04)
+
+</div>
 
 ## 🐙 Tentacle_Sama_:3 🐙
 ---
