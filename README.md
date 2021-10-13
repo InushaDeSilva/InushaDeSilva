@@ -1,12 +1,13 @@
 # Hi I'm Pomu 
 ---
 <p align = "center">
-<video width="320" height="240" autoplay>
+<video width="1280" height="720" autoplay>
   <source src="./assets/Lazulight.mp4" type="video/mp4">
   <source src="./assets/Lazulight.mp4" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 </p>
+
 ## 🐙 Tentacle_Sama_:3 🐙
 ---
 - I’m currently learning Typescript ..I think
