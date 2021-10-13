@@ -4,9 +4,10 @@
 
 [<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://www.youtube.com/watch?v=ZnP0cKNPE04)
 
-</div>
-
 ## 🐙 Tentacle_Sama_:3 🐙
+
+
+</div>
 ---
 - I’m currently learning Typescript ..I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Currently writing useless Code
