@@ -9,7 +9,7 @@
 ---
                       
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical" width="400">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="480">
 </p>
 
 <p align = "right">
