@@ -15,12 +15,25 @@
 - Currently writing useless Code
 - Currently Addicted to VTubers
 
+
+---                   
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="480">
+</p>
+
+<p align = "right">
+  <img src = "https://github-readme-stats.vercel.app/api?username=TentacleSama4254&show_icons=true&theme=radical&layout=compact">
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 ---
 <div align="center">
 <h3>Stuff I know (sort of)</h3>
 </div>
 <div align="center">
-
+<!-- <h3> stuff </h3> -->
   <a href= 'https://www.typescriptlang.org'>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
@@ -54,15 +67,16 @@
      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
 " />
- 
- 
+ <!-- <p align="center"> -->
+<!-- </p> -->
+
 </div>
 
 <div align="center">
 <h3>Stuff I want to Learn/Use</h3>
 </div>
 <div align="center">
-
+<!-- <h3>c</h3> -->
  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
@@ -80,19 +94,11 @@
  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
-    
+<!-- <p align="center"> -->
+<!-- </p> -->
 </div>
 
----                   
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="480">
-</p>
 
-<p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TentacleSama4254&show_icons=true&theme=radical&layout=compact">
-</p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
