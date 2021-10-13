@@ -10,7 +10,7 @@
 
 ## 🐙 Tentacle_Sama_:3 🐙
 ---
-- I’m currently learning Typescript ..I think [<img align="right" alt="Deth | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hi_Im_Pomu)
+- I’m currently learning Typescript ..I think [<img align="right" alt="Deth | Twitter" width="44px" src="./assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Currently writing useless Code
 - Addicted to VTubers
 
