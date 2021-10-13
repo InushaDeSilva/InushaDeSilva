@@ -14,7 +14,7 @@
 - Currently writing useless Code
 - Addicted to VTubers
 
-[<img align="center" alt="Deth | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Hi_Im_Pomu]
+[<img align="right" alt="Deth | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Hi_Im_Pomu)
 
 ---
                       
