@@ -7,7 +7,10 @@
 [<img align="center" alt="Deth | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Hi_Im_Pomu]
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact)](https://www.youtube.com/watch?v=rsP2Yq4H98A)                        
+                      
+<p align = "right">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="600">
+</p>
 
 <p align = "right">
   <img src = "https://github-readme-stats.vercel.app/api?username=TentacleSama4254&show_icons=true&theme=radical&layout=compact">
