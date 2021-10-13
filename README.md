@@ -33,7 +33,7 @@
 <h3>Stuff I know (sort of)</h3>
 </div>
 <div align="center">
-<!-- <h3> stuff </h3> -->
+<!-- <h3>Stuff I know (sort of)</h3> -->
   <a href= 'https://www.typescriptlang.org'>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
