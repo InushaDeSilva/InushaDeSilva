@@ -2,7 +2,7 @@
 ---
 <div align="center">
 
-[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/ZnP0cKNPE04?t=145)
+[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/ZnP0cKNPE04?t=2m34s)
 
 ## 🐙 Tentacle_Sama_:3 🐙
 
