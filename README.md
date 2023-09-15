@@ -1,19 +1,11 @@
-# Hi I'm Pomu 
----
-<div align="center">
-
-[<img align="center" alt="Nijisanji EN" width="650px" src="assets/Lazulight.webp" />](https://youtu.be/ZnP0cKNPE04?t=2m34s)
-
-## 🐙 Tentacle_Sama_:3 🐙
-
+# Hi I'm Inusha
 
 </div>
 
 
 ---
-- Currently learning Typescript ..I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
-- Currently writing useless Code
-- Currently Addicted to VTubers
+- Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
+- Still writing horrible Code
 
 
 ---                   
