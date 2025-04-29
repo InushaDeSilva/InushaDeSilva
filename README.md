@@ -4,7 +4,7 @@
 
 
 ---
-- Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
+- Currently learning C++...I think 
 - Still writing horrible Code
 
 
