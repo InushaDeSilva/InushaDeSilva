@@ -1,8 +1,11 @@
-# Hi, I'm Inusha 👋
+# <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Mechatronics+Engineering+Student;Code+%2B+Hardware+%3D+%3C3;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  
+  <!-- Fallback if typing SVG doesn't work -->
+  <!-- <h2>🤖 Mechatronics Engineering Student | 💻 Code + Hardware = ❤️</h2> -->
+</div> I'm Inusha 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Mechatronics+Engineering+Student;Code+%2B+Hardware+%3D+%3C3; Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-</div>
+
 
 ---
 🎓 **Engineering:** Mechatronics student passionate about robotics & automation  
